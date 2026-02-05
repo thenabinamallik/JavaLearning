@@ -1,7 +1,3 @@
-Here’s a **minimal, correct `README.md`** that links to your cheat sheet and works cleanly on GitHub.
-
-Copy this **as-is**.
-
 ---
 
 # Java Tutorials
