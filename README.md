@@ -12,6 +12,7 @@ This repository contains concise and practical notes for **Java and Spring Boot 
 
 * **[Java + Spring Boot Cheat Sheet](./JavaSpringCheetSheat.md)**
   A compact reference covering core Java, concurrency, JVM internals, Spring Boot fundamentals, and backend interview essentials.
+* **[Java Spring Interview Q&A](./InterviewPrep.md)**
 
 ## 🎯 Who This Is For
 
