@@ -1,4 +1,3 @@
----
 
 # Java Tutorials
 
@@ -19,5 +18,3 @@ This repository contains concise and practical notes for **Java and Spring Boot 
 ## 📌 Usage
 
 Open the cheat sheet directly or browse the repository for topic-specific notes.
-
----
